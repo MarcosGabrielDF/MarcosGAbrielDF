@@ -17,4 +17,8 @@
     <img align="center" alt="OFFICE" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /> <br/>
 </div>
 
+### Meu objetivo
+
+Estou focado em aprimorar meus conhecimentos em Python, com ênfase em automações e inteligência artificial. No futuro, planejo cursar uma faculdade de Data Science para expandir minhas habilidades
+
 >**“Qualquer tecnologia suficientemente avançada é equivalente à mágica”.**  _— Arthur C. Clarke_
