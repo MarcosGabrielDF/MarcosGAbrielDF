@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_gabriel_d.f/)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100075214742550)  [![Facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-gabriel-34ba07295/)
 
-![Gamboll Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GambollGabriel&show_icons=true&theme=tokyonight)
+![MarcosGabrielDF GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosGabrielDF&show_icons=true&theme=tokyonight)
 
 ### Tecnologias que eu sei✅
 
