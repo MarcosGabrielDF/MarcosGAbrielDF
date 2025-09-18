@@ -2,16 +2,17 @@
 ### 🌐 Redes Sociais
 
 <p align="right">
-  <a href="https://www.instagram.com/marcos_gabriel_d.f/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="25"/>
+  <a href="https://www.instagram.com/marcos_gabriel_d.f/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" height="20"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100075214742550" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="25"/>
+  <a href="https://www.facebook.com/profile.php?id=100075214742550">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white" height="20"/>
   </a>
-  <a href="https://www.linkedin.com/in/marcos-gabriel-34ba07295/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25"/>
+  <a href="https://www.linkedin.com/in/marcos-gabriel-34ba07295/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" height="20"/>
   </a>
 </p>
+
 
 ---
 
