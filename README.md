@@ -1,17 +1,18 @@
 ## Opa, meu nome é Marcos Gabriel 
 ### 🌐 Redes Sociais
 
-<div align="center">
+<p align="right">
   <a href="https://www.instagram.com/marcos_gabriel_d.f/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="40" width="40" alt="instagram logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="25"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100075214742550" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" height="40" width="40" alt="facebook logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="25"/>
   </a>
   <a href="https://www.linkedin.com/in/marcos-gabriel-34ba07295/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40" width="40" alt="linkedin logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25"/>
   </a>
-</div>
+</p>
+
 ---
 
 ### 🚀 Tecnologias que eu sei ✅
