@@ -1,7 +1,7 @@
 ## Opa, meu nome é Marcos Gabriel 
-### 🌐 Redes Sociais
 
 <p align="right">
+  ### 🌐 Redes Sociais
   <a href="https://www.instagram.com/marcos_gabriel_d.f/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" height="20"/>
   </a>
