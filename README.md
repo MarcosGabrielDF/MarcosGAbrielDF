@@ -12,7 +12,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" height="20"/>
   </a>
 </p>
---
+
+---
+
+### 🎯 Meu objetivo
+
+Estou focado em aprimorar meus conhecimentos em Python, com ênfase em automações e inteligência artificial.  
+No futuro, planejo cursar uma faculdade de Data Science para expandir minhas habilidades
+
+> **“Qualquer tecnologia suficientemente avançada é equivalente à mágica”.**  _— Arthur C. Clarke_
 
 ### 🚀 Tecnologias que eu sei ✅
 
@@ -28,13 +36,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="50" alt="markdown logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoft office logo"/>
 </div>
-
-
----
-
-### 🎯 Meu objetivo
-
-Estou focado em aprimorar meus conhecimentos em Python, com ênfase em automações e inteligência artificial.  
-No futuro, planejo cursar uma faculdade de Data Science para expandir minhas habilidades
-
-> **“Qualquer tecnologia suficientemente avançada é equivalente à mágica”.**  _— Arthur C. Clarke_
