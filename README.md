@@ -1,7 +1,4 @@
 ## Opa, meu nome é Marcos Gabriel 
-
-### 🌐 Redes Sociais
-
 ### 🌐 Redes Sociais
 
 <div align="center">
