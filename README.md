@@ -15,6 +15,10 @@
 
 
 ---
+![Marcos Gabriel GitHub Stats](https://sua-instancia.vercel.app/api?username=MarcosGabrielDF&show_icons=true&theme=tokyonight)
+![Top Langs](https://sua-instancia.vercel.app/api/top-langs/?username=MarcosGabrielDF&theme=tokyonight&layout=compact)
+
+--
 
 ### 🚀 Tecnologias que eu sei ✅
 
