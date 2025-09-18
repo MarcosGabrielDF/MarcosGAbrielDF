@@ -1,15 +1,15 @@
 ## Opa, meu nome é Marcos Gabriel 
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/marcos_gabriel_d.f/) 
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100075214742550) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcos-gabriel-34ba07295/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_gabriel_d.f/)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100075214742550)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-gabriel-34ba07295/)
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-![MarcosGabrielDF GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosGabrielDF&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosGabrielDF&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
+### 📊 Estatísticas do GitHub (substituto rápido)
+[![Followers](https://img.shields.io/github/followers/MarcosGabrielDF?label=Followers&style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcosGabrielDF)
+[![Repos](https://img.shields.io/github/search?query=user%3AMarcosGabrielDF&type=Repositories&label=Repos&style=for-the-badge)](https://github.com/MarcosGabrielDF?tab=repositories)
+[![User Stars](https://img.shields.io/github/users-stars/MarcosGabrielDF?label=Stars&style=for-the-badge)](https://github.com/MarcosGabrielDF?tab=stars)
 
 ---
 
@@ -33,6 +33,6 @@
 ### 🎯 Meu objetivo
 
 Estou focado em aprimorar meus conhecimentos em Python, com ênfase em automações e inteligência artificial.  
-No futuro, planejo cursar uma faculdade de Data Science para expandir minhas habilidades.
+No futuro, planejo cursar uma faculdade de Data Science para expandir minhas habilidades
 
 > **“Qualquer tecnologia suficientemente avançada é equivalente à mágica”.**  _— Arthur C. Clarke_
