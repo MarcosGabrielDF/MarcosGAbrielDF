@@ -4,16 +4,15 @@
 
 <div align="center">
   <a href="https://www.instagram.com/marcos_gabriel_d.f/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="50" alt="facebook logo" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="50" width="50" alt="instagram logo" style="filter: invert(37%) sepia(90%) saturate(4231%) hue-rotate(314deg) brightness(97%) contrast(102%);" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100075214742550" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="50" alt="facebook logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="50" width="50" alt="facebook logo" />
   </a>
   <a href="https://www.linkedin.com/in/marcos-gabriel-34ba07295/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="linkedin logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" width="50" alt="linkedin logo" />
   </a>
 </div>
-
 ---
 
 ### 🚀 Tecnologias que eu sei ✅
