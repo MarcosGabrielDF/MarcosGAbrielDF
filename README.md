@@ -1,7 +1,7 @@
 ## Opa, meu nome é Marcos Gabriel 
 
 ### 🌐 Redes Sociais
-<p align="right">
+<p align="left">
   <a href="https://www.instagram.com/marcos_gabriel_d.f/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" height="20"/>
   </a>
@@ -12,12 +12,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" height="20"/>
   </a>
 </p>
-
-
----
-![Marcos Gabriel GitHub Stats](https://sua-instancia.vercel.app/api?username=MarcosGabrielDF&show_icons=true&theme=tokyonight)
-![Top Langs](https://sua-instancia.vercel.app/api/top-langs/?username=MarcosGabrielDF&theme=tokyonight&layout=compact)
-
 --
 
 ### 🚀 Tecnologias que eu sei ✅
