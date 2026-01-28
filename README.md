@@ -18,7 +18,7 @@
 ### 🎯 Meu objetivo
 
 Estou focado em aprimorar meus conhecimentos em Python, com ênfase em automações e inteligência artificial.  
-No futuro, planejo cursar uma faculdade de Data Science para expandir minhas habilidades
+Curso a faculdade de Data Science na Fatec de Ourinhos para expandir minhas habilidades.
 
 > **“Qualquer tecnologia suficientemente avançada é equivalente à mágica”.**  _— Arthur C. Clarke_
 
