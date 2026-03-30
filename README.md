@@ -20,6 +20,5 @@ Curso a faculdade de Data Science na Fatec de Ourinhos.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="sql logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/n8n.svg" height="50" alt="n8n logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="50" alt="markdown logo"/>
 </div>
