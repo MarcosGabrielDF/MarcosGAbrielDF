@@ -1,5 +1,9 @@
 ## Opa, meu nome é Marcos Gabriel 
 
+[![Portfólio](https://img.shields.io/badge/🌐_Acesse_meu_Portfólio-007ACC?style=for-the-badge)](https://marcosgabrieldf.github.io/portfolio/)
+
+🔗 **Link direto:** [marcosgabrieldf.github.io/portfolio](https://marcosgabrieldf.github.io/portfolio/)
+
 ---
 
 ### 🎯 Meu objetivo
